@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>9.4 Patient Week View</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>e926c2a6-9698-4a0e-82bf-35fb76e05ba1</testCaseGuid>
+</TestCaseEntity>

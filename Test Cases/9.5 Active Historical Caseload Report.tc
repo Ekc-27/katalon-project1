@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>9.5 Active Historical Caseload Report</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>9cf5c868-1d02-45ad-b32b-59048de901fd</testCaseGuid>
+</TestCaseEntity>

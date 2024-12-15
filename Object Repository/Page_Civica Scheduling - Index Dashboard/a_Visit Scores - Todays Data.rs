@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Visit Scores - Todays Data</name>
+   <tag></tag>
+   <elementGuidId>ae3627b0-29e1-4eb0-9d98-09af7ed4d9d5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//ul[@id='navigation']/div/li[2]/ul/li[3]/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;Visit Scores - Today's Data&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>b84f03c5-840e-4408-92d2-dc0c1339a0df</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/acuity_dashboard/today</value>
+      <webElementGuid>802dad1c-7fa0-4241-be31-55c61334beb7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Visit Scores - Today's Data</value>
+      <webElementGuid>9b9f8277-6e07-463a-a52f-fb278cec57ef</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;navigation&quot;)/div[@class=&quot;nav-splitter&quot;]/li[@class=&quot;first_level dropdown open&quot;]/ul[@class=&quot;dropdown-menu&quot;]/li[@class=&quot;second_level&quot;]/a[1]</value>
+      <webElementGuid>7c107a74-0eb3-45f7-928d-d93764aea004</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//ul[@id='navigation']/div/li[2]/ul/li[3]/a</value>
+      <webElementGuid>3967567a-8fa2-4edd-8b09-83587fcd71ad</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Weekly Planner'])[1]/following::a[1]</value>
+      <webElementGuid>dd377fe8-89e6-4d16-aec5-3698c41f2a5a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Capacity vs Demand'])[1]/following::a[2]</value>
+      <webElementGuid>667d2094-5f2a-4034-92ff-3cc2e4a46252</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Visit Scores - Historic Data'])[1]/preceding::a[1]</value>
+      <webElementGuid>b2d5650a-2ac0-4293-a42b-4147f5e553ac</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Day View'])[1]/preceding::a[3]</value>
+      <webElementGuid>0a42732e-b822-451a-8ffc-d9ea430667f6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/acuity_dashboard/today')]</value>
+      <webElementGuid>f21aadf7-faf3-473b-a1b9-bd4622c1f071</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//ul/li[3]/a</value>
+      <webElementGuid>fdfc20e1-fb40-4258-8d2b-e67a45921909</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/acuity_dashboard/today' and (text() = concat(&quot;Visit Scores - Today&quot; , &quot;'&quot; , &quot;s Data&quot;) or . = concat(&quot;Visit Scores - Today&quot; , &quot;'&quot; , &quot;s Data&quot;))]</value>
+      <webElementGuid>0dace623-384c-482b-9273-9a29173db7c4</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

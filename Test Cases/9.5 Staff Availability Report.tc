@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>9.5 Staff Availability Report</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>a4b88780-31d2-4913-a657-5a559316a0f2</testCaseGuid>
+</TestCaseEntity>
